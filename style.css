@@ -1,0 +1,85 @@
+
+:root {
+--Slate-300: hsl(212, 45%, 89%);
+--Slate-500: hsl(216, 15%, 48%);
+--Slate-900: hsl(218, 44%, 22%);
+--White: hsl(0, 0%, 100%);
+}
+* {
+
+margin: 0;
+padding: 0;
+font-family: 'Outfit';
+
+}
+html, body {
+ height:100%;
+}
+ body {
+    background-color: var(--Slate-300);
+    display: flex;
+    justify-content: center;
+    align-items: center;
+ }
+
+ 
+ .main {
+    background-color: var(--White);
+    width: 330px;
+    height: 525px;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    padding-top: 16px;
+    border-radius: 1.2rem;
+    box-shadow: 0px 80px 160px rgba(0,0,0,0.25 ) ;
+ }
+ .image {
+    border-radius: .965rem;
+    margin-bottom: 18px;
+    display: block;
+    
+    
+ }
+.title {
+        font-size: 25px;
+        font-weight: 700;
+        text-align: center;
+        margin-bottom: 1rem;
+        line-height: 1.5;
+    }
+
+p {
+    font-size: 15px;
+    line-height: 1.8;
+    color:var(--Slate-500);
+    margin-top: .425rem;
+    text-align: center;
+    direction: ltr;
+    width: 80%;
+    padding-left: 1.5rem;
+    padding-right: 1.2rem;
+    
+    
+
+}
+
+
+ .attribution {
+    color: var(--Slate-500);
+    font-size: 11px;
+    text-align: center;
+    margin-top: 1.3rem;
+    margin-bottom: .625rem;
+ }
+ .attribution a {
+    text-decoration: none;
+ }
+
+ /* Media Query for screens 1024px and wider */
+@media (min-width: 1024px) and (max-width: 1440px) {
+    .main-content {
+        margin: 0 auto;
+    }
+  }
