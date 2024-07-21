@@ -15,8 +15,8 @@ This is a solution to the [QR code component challenge on Frontend Mentor](https
 
 ### Links
 
-- Solution URL: [Add solution URL here](https://your-solution-url.com)
-- Live Site URL: [live site](https://ragnarok344.github.io/QR-Code/)
+Solution URL: [Solution]("https://www.frontendmentor.io/solutions/qr-coide-card-B2CFuyDwbC")
+Live Site URL: [live site]("https://ragnarok344.github.io/QR-Code/")
 
 ## My process
 Layout my HTML then start my css and name it as i go.
@@ -28,9 +28,6 @@ Layout my HTML then start my css and name it as i go.
 ### What I learned
 How to use flex colums, adjust padding and text and bring it all together to line up.
 
-```
-
-If you want more help with writing markdown, we'd recommend checking out [The Markdown Guide](https://www.markdownguide.org/) to learn more.
 
 
 
@@ -42,9 +39,10 @@ Working on flex fox border box padding and margins and nesting elements.
 
 ### Useful resources
 
-- [w3schools.com](https://www.w3schools.com/css/default.asp) - This helped me for figure out diffrent CSS props to try out
+[w3schools.com]("https://www.w3schools.com/css/default.asp") - This helped me for figure out diffrent CSS props to try out
 
 ## Author
 
-- Website - [Jeremy](https://ragnarok344.github.io/QR-Code/)
-- Frontend Mentor - [Ragnarok344](https://www.frontendmentor.io/profile/Ragnarok344)
+Website - [Jeremy]("https://ragnarok344.github.io/QR-Code/")
+
+Frontend Mentor - [Ragnarok344]("https://www.frontendmentor.io/profile/Ragnarok344")
